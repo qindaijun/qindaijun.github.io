@@ -10,7 +10,7 @@ title: 关于我
 平时喜欢玩电子diy和家里的一些修修补补，喝喝茶，喝喝小酒，听听音乐折腾NAS和软路由。
 
 <h2> 我的博客 </h2>  
-这个博客是我部署在GitHub上的，纯个人使用，感谢github平台和UP潘博信。
+这个博客是我部署在GitHub上的，纯个人使用，感谢github平台和UP潘柏信。
 
 
 {% include comments.html %}
