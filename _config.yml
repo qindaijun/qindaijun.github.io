@@ -51,7 +51,7 @@ ga:
 
 
 # permalink: /:year/:month/:title/
-permalink: /:year/:month/:day:title/
+permalink: /:year/:month/:day/:title/
 # Format
 highlighter: rouge
 
