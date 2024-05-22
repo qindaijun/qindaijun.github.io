@@ -6,7 +6,7 @@ description: 欢迎来到我的个人博客~
 avatarTitle: bg8iai
 # 头像里面的描述
 avatarDesc: linux / 业余无线电
-url: "http://qindaijun.github.io"
+url: "https://qindaijun.github.io"
 
 # 博客是否自动生成目录，false为不生成
 enableToc: true
